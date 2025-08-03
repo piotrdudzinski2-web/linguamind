@@ -1,0 +1,1 @@
+# Linguamind app module
